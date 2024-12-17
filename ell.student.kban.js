@@ -55,6 +55,8 @@ const reportGenerationTask = new Task({
     - Identifies specific areas for improvement
     - Provides actionable recommendations for both home and school support
     - Acknowledges the challenges and progress of language acquisition
+    - Provided specific recommendations for both home and school support
+    - Provides clear examples and clear explanations
 
     Format the report in Markdown with the following structure:
     # Student Language Development Report / Reporte del Desarrollo Lingüístico
