@@ -1,0 +1,21 @@
+{
+  "name": "kaibananalysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kaiban": "kaiban run",
+    "kaiban:deploy": "kaiban deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@kaibanjs/tools": "^0.3.0",
+    "kaibanjs": "^0.11.0"
+  }
+}
